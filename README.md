@@ -3,7 +3,7 @@ Hackintosh-For-Dell-OptiPlex-3020M
 
 戴尔Dell OptiPlex 3020M 迷你主机黑苹果OpenCore支持最新BigSur11.6.2
 
-![系统截图](https://github.com/uknowzheng/Hackintosh-Dell-OptiPlex-3020M/blob/main/info.png)
+![系统截图](https://github.com/uknowzheng/Hackintosh-Dell-OptiPlex-3020M/blob/feat/for4150/info.png)
 
 显卡/网卡/蓝牙/声卡/Airdrop 均正常，完美黑苹果。
 
