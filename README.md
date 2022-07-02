@@ -11,7 +11,7 @@ Hackintosh-For-Dell-OptiPlex-3020M
 - CPU： i3-4150T 节能版本
 - 内存：海盗船DDR3 1600MHZ 4GB x 2
 - 硬盘：Samsung SSD 750 EVO 120GB
-- 无线网卡：DW1820A（某鱼80块钱淘到）
+- 无线网卡：DW1820A
 
 
 
