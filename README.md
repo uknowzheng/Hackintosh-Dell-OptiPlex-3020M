@@ -11,7 +11,7 @@ Hackintosh-For-Dell-OptiPlex-3020M
 - CPU： i5-4590 标压版本（如果是i3-4150的话请切换到feat/for4150分支）
 - 内存：海盗船DDR3 1600MHZ 4GB x 2
 - 硬盘：Samsung SSD 750 EVO 120GB
-- 无线网卡：DW1820A（某鱼80块钱淘到）
+- 无线网卡：DW1820A
 
 
 
